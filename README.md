@@ -21,4 +21,5 @@ This Power BI dashboard was built to:
 - Analyze customer retention and value trends
 
 Tools used: Power BI Desktop | DAX | Power Query
+
 Dataset: [Maven Analytics Power BI Desktop course](https://mavenanalytics.io/course/microsoft-power-bi-desktop) | Derived from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms) from Microsoft
