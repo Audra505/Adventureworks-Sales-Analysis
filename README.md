@@ -42,4 +42,7 @@ Late 2021 saw the most substantial monthly growth reaching $1.6M in revenue like
 ### Category & Product Highlights:
 Accessories had the highest order volume (17K orders) reflecting the high-frequency, low-cost nature of these products. Bikes drove the most revenue: $23.6M over 3 years, Clothing experienced a noticeable increase in orders over time, particularly in 2022, signaling growing interest in apparel. Water Bottle – 30 oz. was the most ordered product (4K orders) while Sport-100 Helmets had highest revenue but also highest return rates (>3.3%). At the subcategory level, Tires and Tubes contributed over a third of total orders (36.1% or 9.1K) while Shorts registered the highest return rate among all subcategories, making up 2.2% of total returns (40 returns).
 
+<img width="1461" height="812" alt="image" src="https://github.com/user-attachments/assets/420bcbcf-5478-4cba-adfe-1c0a23712ab5" />
+
+To explore the report further [Click here to view the interactive Sales Overview](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
 
