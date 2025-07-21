@@ -46,3 +46,55 @@ Accessories had the highest order volume (17K orders) reflecting the high-freque
 
 To explore the report further [Click here to view the interactive Sales Overview](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
 
+## Part 2: Regional Performance
+[Back to Table of Contents](#table-of-contents)
+
+### Summary of Insights: 
+
+### North America
+- Orders: 11.7K (United States: 8.7K | Canada: 3K)
+- Revenue: $9.7M
+- Profit: $4.1M
+- Return Rate: 2.1%
+
+## Category Highlights:
+- Bikes: Highest revenue driver ($683.8K), strong profit ($281.6K) with a modest return rate (2.58%)
+- Accessories: Most ordered (810 orders), best profit margin (62.85%)
+- Clothing: Lower volume but promising growth (+12.4% MoM)
+
+**Top Products:** Mountain-200 Silver, Water Bottle – 30 oz., AWC Logo Cap
+
+**Trend Insight:** Revenue declined slightly (-7.5% MoM), possibly due to market saturation or seasonal cooling.
+
+### Europe
+- Orders: 7.4K (United Kingdom: 2.7K | France: 2.3K | Germany: 2.2K
+- Revenue: $7.8M
+- Profit: $3.3M
+- Return Rate: 2.2%
+
+## Category Highlights:
+- Bikes dominated in revenue and profit, but had the highest return rate at 3.51%
+- Accessories maintained strong margins and demand.
+- Clothing experienced stable growth (+4.8% MoM), but was still the lowest revenue contributor.
+
+**Top Products:** Consistent with North America – Mountain-200 Silver, Water Bottle – 30 oz., AWC Logo Cap
+
+**Trend Insight:** Europe had the strongest positive revenue momentum (+13.9% MoM) demand growth.
+
+### Pacific
+- Orders: 6.1K (Australia: 6.1K)
+- Revenue: $7.4M
+- Profit: $3.1M
+- Return Rate: Highest for the regions at 2.3%
+
+## Category Highlights:
+- Bikes led in value ($424.7K)
+-  Clothing had the strongest MoM growth (+17.4%), showing late-cycle traction
+- Accessories had stable contribution with slightly increased return rates
+
+**Top Products:** Road-750 Black, Water Bottle – 30 oz., AWC Logo Cap
+
+**Trend Insight:** Despite being the smallest region, Pacific outperformed in monthly growth, with all three categories seeing revenue upticks.
+
+### Key Takeaways
+North America remains the largest market by both volume and value, with the United States leading in order volume though the region is beginning to show early signs of plateauing. Europe offers strong revenue and profit performance but also records the highest return rate primarily driven by bike sales highlighting the need to address product quality, sizing, or fulfillment. In contrast, the Pacific region, represented solely by Australia, brought in 6.1K orders and is exhibiting emerging growth trends, particularly in clothing, suggesting potential for market expansion or targeted campaigns. Across all regions, Accessories continue to deliver the strongest profit margins, establishing them as high-value contributors to the overall portfolio.
