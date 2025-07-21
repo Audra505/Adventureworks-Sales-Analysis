@@ -31,6 +31,7 @@ Here’s a view of the data model used for this project:
 
 For a closer look at the dataset used in this project, you can explore the original files [here](data)
 
+---
 ## Part 1: Sales Overview
 [Back to Table of Contents](#table-of-contents)
 ### Summary of Insights:
@@ -45,6 +46,8 @@ Accessories had the highest order volume (17K orders) reflecting the high-freque
 <img width="1461" height="812" alt="image" src="https://github.com/user-attachments/assets/420bcbcf-5478-4cba-adfe-1c0a23712ab5" />
 
 To explore the report further [Click here to view the interactive Sales Overview](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
+
+---
 
 ## Part 2: Regional Performance
 [Back to Table of Contents](#table-of-contents)
