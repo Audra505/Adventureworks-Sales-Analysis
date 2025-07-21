@@ -22,3 +22,9 @@ This Power BI dashboard was built to:
 
 **Tools used:**  Power BI Desktop | DAX | Power Query  
 **Dataset:** [Maven Analytics Power BI Desktop course](https://mavenanalytics.io/course/microsoft-power-bi-desktop) | Derived from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms) from Microsoft
+
+### Data Model
+To support analysis and accurate relationships between tables, I built a **star schema data model** in Power BI. This model connects core fact tables (e.g., sales, returns) with supporting dimension tables (e.g. product, customers, territories), enabling efficient filtering and aggregation across various dimensions (dimension tables on the top while fact tables on the bottom for a cleaner apperance).
+
+Here’s a view of the data model used for this project:
+<img width="961" height="628" alt="image" src="https://github.com/user-attachments/assets/c691d2c8-606b-48a8-99d0-dc60b754ec86" />
