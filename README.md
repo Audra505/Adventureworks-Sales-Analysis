@@ -32,7 +32,7 @@ Here’s a view of the data model used for this project:
 For a closer look at the dataset used in this project, you can explore the original files [here](data)
 
 ## Part 1: Sales Overview Page
-[Back to table of contents](Table-of-Contents)
+[Back to Table of Contents](##Table-of-Contents)
 ### Summary of Insights:
 Revenue peaked in 2021 ($9.3M) and stabilized in 2022 ($9.2M). Profit mirrored revenue: $4.0M in 2021 to $3.9M in 2022. Orders steadily increased from 2.6K (2020) to 11.8K (2022) and Return rate improved 3.3% in 2020 to 2.1% in 2022.
 
