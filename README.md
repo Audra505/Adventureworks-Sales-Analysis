@@ -1,12 +1,13 @@
 # AdventureWorks Analysis (2020-2022)
-
+---
 
 ## Table of Contents
 - [Project Summary](#project-summary)
-- [Part 1: Sales Trends ](#part-1-Sales-Overview-Page)
-- [🔍 Part 2: Targeted Insights](#part-2-targeted-insights)
-- [📊 Part 3: Interactive Visualizations](#part-3-interactive-visualizations)
-- [✅ Part 4: Recommendations & Next Steps](#part-4-recommendations--next-steps)
-- [🧹 Addendum: Notes on Data Modeling](#addendum-notes-on-data-modeling)
+- [Part 1: Sales Overview ](#part-1-Sales-Overview)
+- [Part 2: Regional Performance](#part-2-Regional-Performance)
+- [Part 3: Product Insights](#part-3-Product-Insights)
+- [Part 4: Customer Insights](#part-4-Customer-Insights)
+- [Part 5: Recommendations & Next Steps](#part-5-recommendations--next-steps)
+- [Addendum: Notes on Data Modeling](#addendum-notes-on-data-modeling)
 
 ---
