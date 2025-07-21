@@ -57,7 +57,7 @@ To explore the report further [Click here to view the interactive Sales Overview
 - Profit: $4.1M
 - Return Rate: 2.1%
 
-## Category Highlights:
+### Category Highlights:
 - Bikes: Highest revenue driver ($683.8K), strong profit ($281.6K) with a modest return rate (2.58%)
 - Accessories: Most ordered (810 orders), best profit margin (62.85%)
 - Clothing: Lower volume but promising growth (+12.4% MoM)
@@ -72,7 +72,7 @@ To explore the report further [Click here to view the interactive Sales Overview
 - Profit: $3.3M
 - Return Rate: 2.2%
 
-## Category Highlights:
+### Category Highlights:
 - Bikes dominated in revenue and profit, but had the highest return rate at 3.51%
 - Accessories maintained strong margins and demand.
 - Clothing experienced stable growth (+4.8% MoM), but was still the lowest revenue contributor.
@@ -87,7 +87,7 @@ To explore the report further [Click here to view the interactive Sales Overview
 - Profit: $3.1M
 - Return Rate: Highest for the regions at 2.3%
 
-## Category Highlights:
+### Category Highlights:
 - Bikes led in value ($424.7K)
 -  Clothing had the strongest MoM growth (+17.4%), showing late-cycle traction
 - Accessories had stable contribution with slightly increased return rates
