@@ -1,6 +1,5 @@
 # AdventureWorks Analysis (2020-2022)
 
----
 
 ## Table of Contents
 - [Project Summary](#project-summary)
