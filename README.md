@@ -28,3 +28,5 @@ To support analysis and accurate relationships between tables, I built a **star 
 
 Here’s a view of the data model used for this project:
 <img width="961" height="628" alt="image" src="https://github.com/user-attachments/assets/c691d2c8-606b-48a8-99d0-dc60b754ec86" />
+
+For a closer look at the dataset used in this project, you can explore the original files here
