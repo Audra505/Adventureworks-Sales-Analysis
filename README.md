@@ -170,3 +170,12 @@ To explore the report further [Click here](https://app.powerbi.com/reportEmbed?r
 
 - **Operational improvements are driving better customer experience.** Return rates declined from 3.3% to 2.1% despite order growth  a sign of improved fulfillment processes or satisfaction levels that should be maintained and scaled.
 
+  ### Next Steps
+- **Enhance Customer Value:** By developing customer retention programs e.g., loyalty programs, cross-sell strategies, or premium tiers to increase revenue per customer.
+- **Investigate High Return Products:** A deeper dive needs to be done into return drivers (e.g., sizing, quality, expectations) for best-sellers like the Sport-100 Helmet to reduce any avoidable losses. 
+- **Invest in Pacific Region Expansion:** Pilot targeted apparel campaigns and localized promotions to capitalize on fast-growing demand, especially in underpenetrated markets like Australia.
+- **Engage Untapped Segments:** Campaigns tailored to high-income and younger demographics can be utilized through product bundling, influencer partnerships, and rebranding offers to boost engagement and conversion.
+- **Preserve Operational Gains:** Continue to optimize fulfillment and returns management to maintain low return rates and customer satisfaction.
+
+
+
