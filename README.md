@@ -8,7 +8,7 @@
 - [Part 3: Product Insights](#part-3-Product-Insights)
 - [Part 4: Customer Insights](#part-4-Customer-Insights)
 - [Part 5: Recommendations & Next Steps](#part-5-recommendations--next-steps)
-- [Addendum: Notes on Data Modeling & Cleaning](#addendum-notes-on-data-modeling-cleaning)
+- [Addendum: Notes on Data Modeling & Cleaning](#addendum-notes-on-data-modeling--cleaning)
 
 ---
 ## Project Summary
