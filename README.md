@@ -154,3 +154,19 @@ Finally, the top 100 customers led by individuals like Mr. Maurice Shan and Mrs.
 <img width="1453" height="812" alt="image" src="https://github.com/user-attachments/assets/cda93178-5744-4aa8-a732-19726bfa45c6" />
 
 To explore the report further [Click here](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&pageName=ReportSectionaf772b59a4d5e4332319&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
+
+ ---
+ ## Part 5: Recommendations & Next Steps
+[Back to Table of Contents](#table-of-contents)
+
+### Executive Takeaways 
+- **Customer acquisition efforts are succeeding but at the cost of profitability per customer.** The customer base nearly quadrupled from 3K to 11K, but revenue per customer dropped by 56% (from $2K to $875). This signals a shift to volume driven growth that may not be sustainable without improving customer value or targeting higher spending segments.
+
+- **High volume products drive success but also carry return risks.** Best-selling items like the Sport-100 Helmet generated strong revenue but also had the highest return rates. Product level performance should be analyzed further to reduce return-related losses.
+
+- **North America remains the strongest market, but future growth may come from the Pacific.** While North America leads in orders and revenue, the Pacific region showed the fastest MoM growth and emerging demand for clothing suggesting investment potential in product expansion and marketing in underpenetrated regions.
+
+- **Targeted customer segmentation could unlock additional revenue.** Most purchases came from average and low-income customers aged 51–70, with undergraduates and professionals dominating. High-income tiers and younger segments are underrepresented highlighting a missed opportunity for product repositioning or bundling strategies. 
+
+- **Operational improvements are driving better customer experience.** Return rates declined from 3.3% to 2.1% despite order growth  a sign of improved fulfillment processes or satisfaction levels that should be maintained and scaled.
+
