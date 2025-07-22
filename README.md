@@ -111,14 +111,14 @@ To explore the report further [Click here to view the interactive Territory Over
 [Back to Table of Contents](#table-of-contents)
 
 ### Summary of Insights 
-**Highest Return Rate Product:Sport-100 Helmet, Red**
+#### Highest Return Rate Product:Sport-100 Helmet, Red
 A top-selling accessory product, it demonstrated strong overall performance from 2020 to 2022, securing a top-5 rank by orders. Over the observed period, $73.4K was generated in revenue, $46K in profit, and 2.1K in orders.
 
 **Monthly analysis** revealed fluctuating revenue and order trends, with seasonality in both spikes and slowdowns. Despite this, the product met revenue targets in only 6 of the 12 tracked months, with performance dips often coinciding with lower order volumes. Highlighting a potential need to optimize inventory cycles or promotional timing to align with high-demand periods.
 
 The **return rate averaged 3.33%, increasing slightly year over year**. While return spikes such as 5.31% in May 2022 raised expectation concerns, it’s notable that higher returns often occurred during periods of high sales. This suggests that increased returns may be a byproduct of higher volume rather than dissatisfaction.
 
-A regional comparison brought further clarity:
+A **regional comparison** brought further clarity:
 - North America delivered the highest revenue ($32.1K) and profit, despite having one of the most volatile return trends and missing revenue targets in 6 months.
 - Europe hadvthe lowest return rate (2.79%), but missed targets the most often (8 months), suggesting weak demand despite low return friction.
 - Pacific trailed in both revenue and orders and recorded the highest return rate (4.19%), indicating potential  unmet expectations in that market.
