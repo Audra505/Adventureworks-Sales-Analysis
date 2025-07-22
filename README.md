@@ -142,11 +142,11 @@ To explore the report further [Click here to view the interactive Product Insigh
 Between 2020 and 2022, AdventureWorks served over 17.4K customers, generating 25.2K orders with a customer retention rate of 33.63% and revenue per customer averaging $1.4K. Customer growth showed a steady upward trend, increasing from 3K in 2020 to over 11K by 2022, signaling successful customer acquisition efforts. However, revenue per customer declined over the same period from $2K in 2020 to $875 in 2022 indicating that while more customers are being acquired, their individual spending is decreasing.
 
 #### Key customer segments include:
-**Income Tier:** Customers in the Average and Low income tiers generated the highest order volumes, while In contrast, high and very high income segments were underrepresented, pointing to an opportunity for targeted marketing or product bundling in those tiers. 
-**Occupation:** Professionals and skilled manual workers led the order volume, while management and clerical roles followed with moderate contributions. 
-**Educational Level:** Undergraduates dominated, accounting for more than half of all orders (14.5K), reinforcing the brand’s appeal to mid-education consumers.
-**Age Groups:** The most active buyers were aged 51–70, with those over 70 also contributing significantly, suggesting a strong middle-aged to senior customer base.
-**Gender:** Females slightly outperformed males in revenue per customer ($1.5K vs $1.4K), with similar ordering patterns across age and income tiers.
-**Marital Status:** Single customers had a higher average revenue per customer ($1.5K) than married ones ($1.4K), although married customers made up a larger proportion of the top spenders.
+- **Income Tier:** Customers in the Average and Low income tiers generated the highest order volumes, while In contrast, high and very high income segments were underrepresented, pointing to an opportunity for targeted marketing or product bundling in those tiers. 
+- **Occupation:** Professionals and skilled manual workers led the order volume, while management and clerical roles followed with moderate contributions. 
+- **Educational Level:** Undergraduates dominated, accounting for more than half of all orders (14.5K), reinforcing the brand’s appeal to mid-education consumers.
+- **Age Groups:** The most active buyers were aged 51–70, with those over 70 also contributing significantly, suggesting a strong middle-aged to senior customer base.
+- **Gender:** Females slightly outperformed males in revenue per customer ($1.5K vs $1.4K), with similar ordering patterns across age and income tiers.
+- **Marital Status:** Single customers had a higher average revenue per customer ($1.5K) than married ones ($1.4K), although married customers made up a larger proportion of the top spenders.
 
 Finally, the top 100 customers led by individuals like Mr. Maurice Shan and Mrs. Janet Munoz consistently spent over $10K, reinforces the importance of a loyal high-value customer and the potential to expand average order size across similar customer profiles.
