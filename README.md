@@ -120,7 +120,7 @@ The **return rate averaged 3.33%, increasing slightly year over year**. While re
 
 A **regional comparison** brought further clarity:
 - North America delivered the highest revenue ($32.1K) and profit, despite having one of the most volatile return trends and missing revenue targets in 6 months.
-- Europe hadvthe lowest return rate (2.79%), but missed targets the most often (8 months), suggesting weak demand despite low return friction.
+- Europe had the lowest return rate (2.79%), but missed targets the most often (8 months), suggesting weak demand despite low return friction.
 - Pacific trailed in both revenue and orders and recorded the highest return rate (4.19%), indicating potential  unmet expectations in that market.
 
 The interactive price adjustment tool can be used for strategic price changes and exploration to optimize profitability without sacrificing volume.
@@ -130,4 +130,7 @@ The interactive price adjustment tool can be used for strategic price changes an
 - Target misses are often tied to low order periods, not just return behavior
 - Each region requires a tailored approach, with North America leaning into demand strength, Europe needing promotional improvements, and Pacific demanding a closer look at the customer experience.
 
+<img width="1457" height="816" alt="image" src="https://github.com/user-attachments/assets/ddb89540-bd59-4c37-8835-9e1a2303744d" />
+
+To explore the report further [Click here to view the interactive Product Insights](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&pageName=ReportSectionaf772b59a4d5e4332319&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
 
