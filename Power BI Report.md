@@ -1,5 +1,5 @@
 ## Overview
-This folder contains the interactive Power BI report for the AdventureWorks Sales Analysis (2020–2022). It features dynamic KPIs, visual storytelling, and segmentation tools to help users explore performance trends across sales, regions, products, and customer.
+This file contains the interactive Power BI report for the AdventureWorks Sales Analysis (2020–2022). It features dynamic KPIs, visual storytelling, and segmentation tools to help users explore performance trends across sales, regions, products, and customer.
 
 ## Live Report (Web View)
 [View Published Dashboard on Power BI](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
