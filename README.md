@@ -105,3 +105,29 @@ Over the three-year period, North America emerged as the **largest market by bot
 <img width="1459" height="819" alt="image" src="https://github.com/user-attachments/assets/9a696087-ada5-423b-88cd-fdb99be6ffe0" />
 
 To explore the report further [Click here to view the interactive Territory Overview](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&pageName=ReportSectionaf772b59a4d5e4332319&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
+
+---
+## Part 3: Product Insights
+[Back to Table of Contents](#table-of-contents)
+
+### Summary of Insights 
+**Highest Return Rate Product:Sport-100 Helmet, Red**
+A top-selling accessory product, it demonstrated strong overall performance from 2020 to 2022, securing a top-5 rank by orders. Over the observed period, $73.4K was generated in revenue, $46K in profit, and 2.1K in orders.
+
+**Monthly analysis** revealed fluctuating revenue and order trends, with seasonality in both spikes and slowdowns. Despite this, the product met revenue targets in only 6 of the 12 tracked months, with performance dips often coinciding with lower order volumes. Highlighting a potential need to optimize inventory cycles or promotional timing to align with high-demand periods.
+
+The **return rate averaged 3.33%, increasing slightly year over year**. While return spikes such as 5.31% in May 2022 raised expectation concerns, it’s notable that higher returns often occurred during periods of high sales. This suggests that increased returns may be a byproduct of higher volume rather than dissatisfaction.
+
+A regional comparison brought further clarity:
+- North America delivered the highest revenue ($32.1K) and profit, despite having one of the most volatile return trends and missing revenue targets in 6 months.
+- Europe hadvthe lowest return rate (2.79%), but missed targets the most often (8 months), suggesting weak demand despite low return friction.
+- Pacific trailed in both revenue and orders and recorded the highest return rate (4.19%), indicating potential  unmet expectations in that market.
+
+The interactive price adjustment tool can be used for strategic price changes and exploration to optimize profitability without sacrificing volume.
+
+### Key Takeaways:
+- Sales volume drives returns, but return spikes do not necessarily signal poor product performance
+- Target misses are often tied to low order periods, not just return behavior
+- Each region requires a tailored approach, with North America leaning into demand strength, Europe needing promotional improvements, and Pacific demanding a closer look at the customer experience.
+
+
