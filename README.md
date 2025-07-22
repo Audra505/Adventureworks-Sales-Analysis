@@ -8,7 +8,7 @@
 - [Part 3: Product Insights](#part-3-Product-Insights)
 - [Part 4: Customer Insights](#part-4-Customer-Insights)
 - [Part 5: Recommendations & Next Steps](#part-5-recommendations--next-steps)
-- [Addendum: Notes on Data Modeling](#addendum-notes-on-data-modeling)
+- [Addendum: Notes on Data Modeling & Cleaning](#addendum-notes-on-data-modeling)
 
 ---
 ## Project Summary
@@ -177,5 +177,10 @@ To explore the report further [Click here](https://app.powerbi.com/reportEmbed?r
 - **Engage Untapped Segments:** Campaigns tailored to high-income and younger demographics can be utilized through product bundling, influencer partnerships, and rebranding offers to boost engagement and conversion.
 - **Preserve Operational Gains:** Continue to optimize fulfillment and returns management to maintain low return rates and customer satisfaction.
 
+---
+## Part 5: Addendum: Notes on Data Modeling & Cleaning
+[Back to Table of Contents](#table-of-contents)
+
+The dataset was provided as flat .csv files covering Sales, Product, Customer, Category etc, data. Using Power Query, I cleaned column names and removed unnecessary fields to streamline the model. Calculated columns and DAX measures were created to support the analysis. Tables were connected using proper one-to-many relationships within Power BI’s data model view, ensuring accurate aggregation and filtering. 
 
 
