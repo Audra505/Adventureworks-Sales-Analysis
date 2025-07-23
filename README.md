@@ -45,7 +45,7 @@ Accessories had the highest order volume (17K orders) reflecting the high-freque
 
 <img width="1461" height="812" alt="image" src="https://github.com/user-attachments/assets/420bcbcf-5478-4cba-adfe-1c0a23712ab5" />
 
-To explore the report further [Click here](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
+To explore the report further [Click here](https://app.powerbi.com/view?r=eyJrIjoiNTA5OTk5ODUtMTRmZi00NjQ2LTg1MGMtMzM0ZTU1NmZkOWViIiwidCI6ImY0ZTI5ODFhLWVlMjctNDhkZi05NDM1LWM0NmJiZDRmMWU3ZCJ9)
 
 ---
 
@@ -104,7 +104,7 @@ Over the three-year period, North America emerged as the **largest market by bot
 
 <img width="1459" height="819" alt="image" src="https://github.com/user-attachments/assets/9a696087-ada5-423b-88cd-fdb99be6ffe0" />
 
-To explore the report further [Click here](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&pageName=ReportSectionaf772b59a4d5e4332319&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
+To explore the report further [Click here](https://app.powerbi.com/view?r=eyJrIjoiNTA5OTk5ODUtMTRmZi00NjQ2LTg1MGMtMzM0ZTU1NmZkOWViIiwidCI6ImY0ZTI5ODFhLWVlMjctNDhkZi05NDM1LWM0NmJiZDRmMWU3ZCJ9)
 
 ---
 ## Part 3: Product Insights
@@ -132,7 +132,7 @@ The interactive price adjustment tool can be used for strategic price changes an
 
 <img width="1457" height="816" alt="image" src="https://github.com/user-attachments/assets/ddb89540-bd59-4c37-8835-9e1a2303744d" />
 
-To explore the report further [Click here](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&pageName=ReportSectionaf772b59a4d5e4332319&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
+To explore the report further [Click here](https://app.powerbi.com/view?r=eyJrIjoiNTA5OTk5ODUtMTRmZi00NjQ2LTg1MGMtMzM0ZTU1NmZkOWViIiwidCI6ImY0ZTI5ODFhLWVlMjctNDhkZi05NDM1LWM0NmJiZDRmMWU3ZCJ9)
 
 ---
 ## Part 4: Customer Insights
@@ -153,7 +153,7 @@ Finally, the top 100 customers led by individuals like Mr. Maurice Shan and Mrs.
 
 <img width="1453" height="812" alt="image" src="https://github.com/user-attachments/assets/cda93178-5744-4aa8-a732-19726bfa45c6" />
 
-To explore the report further [Click here](https://app.powerbi.com/reportEmbed?reportId=70d82fdb-7fcc-4580-bd4c-dd060f027cbd&pageName=ReportSectionaf772b59a4d5e4332319&autoAuth=true&ctid=f4e2981a-ee27-48df-9435-c46bbd4f1e7d)
+To explore the report further [Click here](https://app.powerbi.com/view?r=eyJrIjoiNTA5OTk5ODUtMTRmZi00NjQ2LTg1MGMtMzM0ZTU1NmZkOWViIiwidCI6ImY0ZTI5ODFhLWVlMjctNDhkZi05NDM1LWM0NmJiZDRmMWU3ZCJ9)
 
  ---
  ## Part 5: Recommendations & Next Steps
